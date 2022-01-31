@@ -1,1 +1,1 @@
-# text-channel-creator
+# Text Channel Creator
